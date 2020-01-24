@@ -1,0 +1,6 @@
+amis:
+  'eu-west-2': ami-b6daced2
+  'us-east-2': ami-4191b524
+  'ap-south-1': ami-52c7b43d
+attack_arn: arn:aws:iam::935440313651:user/rmogull
+east_2_ami: ami-4191b524
